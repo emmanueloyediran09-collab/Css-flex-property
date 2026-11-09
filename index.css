@@ -1,0 +1,10 @@
+* {
+    margin: 0px ;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* margin : its the spacing without ( outside ) we have margin top , right , buttom and margin left. instead of wsasting time writing long codes for margin just write ( i.e margin : 20px , the 20px affects the four but if you want it seperately you write the four on the same page (i.e margin : 20px 50px 3opx 40px)
+padding : its the space within (inside ) , we have padding right , top , left, bottom. everything that goes with margin goes with padding too , but we can do something in padding if we want to do padding we can have something like this ( i.e pading : 40px 60px , this is for both top and bottom and for right and left if only want to have the same value for the two pairs 
+border : it wraps around the content and the padding
+content : its what is written in your html file */
